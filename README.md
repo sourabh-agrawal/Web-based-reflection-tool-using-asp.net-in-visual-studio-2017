@@ -14,6 +14,12 @@ After doing previous step your visual studio should open.
 
 Then run the project in any browser.
 
+Username - sourabh
+
+password - sourabh123456789
+
+you can change the login details in Login_page.aspx.cs file under solution explorer...........just type your username and password there where i declare the string variable username, password
+
 
 #######if you are getting error like books_lib, mobile_lib, car_lib, reflection_lib are missing then do the  following steps#######
 
